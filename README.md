@@ -23,7 +23,13 @@ A beautiful, simple weather app built with SwiftUI and WeatherKit.
 
 ## Screenshots
 
-[Add your App Store screenshots here]
+![Screenshot 1](Screenshots/iPhone-1.png)
+![Screenshot 2](Screenshots/iPhone-2.png)
+![Screenshot 3](Screenshots/iPhone-3.png)
+![Screenshot 4](Screenshots/iPhone-4.png)
+![Screenshot 5](Screenshots/iPhone-5.png)
+![Screenshot 6](Screenshots/iPhone-6.png)
+![Screenshot 7](Screenshots/iPhone-7.png)
 
 ## Requirements
 
