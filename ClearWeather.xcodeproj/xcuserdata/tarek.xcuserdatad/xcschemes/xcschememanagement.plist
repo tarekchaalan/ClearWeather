@@ -4,10 +4,35 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ClearWeather 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>ClearWeather.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F57CC5942D2008C0007A44A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F57CC5A42D2008C5007A44A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F57CC5AE2D2008C5007A44A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
