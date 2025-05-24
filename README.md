@@ -72,7 +72,7 @@ For support, feature requests, or bug reports, please [open an issue](https://gi
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Legal
 
